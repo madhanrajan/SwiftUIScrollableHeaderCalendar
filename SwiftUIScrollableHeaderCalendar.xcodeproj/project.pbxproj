@@ -11,6 +11,7 @@
 		99BBB5502B07EBA10082A1CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BBB54F2B07EBA10082A1CF /* ContentView.swift */; };
 		99BBB5522B07EBA40082A1CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99BBB5512B07EBA40082A1CF /* Assets.xcassets */; };
 		99BBB5552B07EBA40082A1CF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99BBB5542B07EBA40082A1CF /* Preview Assets.xcassets */; };
+		99BBB55C2B07EBC20082A1CF /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BBB55B2B07EBC20082A1CF /* CalendarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		99BBB54F2B07EBA10082A1CF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		99BBB5512B07EBA40082A1CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		99BBB5542B07EBA40082A1CF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		99BBB55B2B07EBC20082A1CF /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				99BBB54D2B07EBA10082A1CF /* SwiftUIScrollableHeaderCalendarApp.swift */,
 				99BBB54F2B07EBA10082A1CF /* ContentView.swift */,
+				99BBB55B2B07EBC20082A1CF /* CalendarView.swift */,
 				99BBB5512B07EBA40082A1CF /* Assets.xcassets */,
 				99BBB5532B07EBA40082A1CF /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				99BBB5502B07EBA10082A1CF /* ContentView.swift in Sources */,
 				99BBB54E2B07EBA10082A1CF /* SwiftUIScrollableHeaderCalendarApp.swift in Sources */,
+				99BBB55C2B07EBC20082A1CF /* CalendarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
